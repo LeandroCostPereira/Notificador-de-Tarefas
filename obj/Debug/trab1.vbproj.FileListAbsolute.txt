@@ -1,0 +1,13 @@
+C:\Users\leandro\source\repos\trab1\trab1\bin\Debug\trab1.exe.config
+C:\Users\leandro\source\repos\trab1\trab1\bin\Debug\trab1.exe
+C:\Users\leandro\source\repos\trab1\trab1\bin\Debug\trab1.pdb
+C:\Users\leandro\source\repos\trab1\trab1\bin\Debug\trab1.xml
+C:\Users\leandro\source\repos\trab1\trab1\obj\Debug\trab1.vbprojAssemblyReference.cache
+C:\Users\leandro\source\repos\trab1\trab1\obj\Debug\trab1.Form1.resources
+C:\Users\leandro\source\repos\trab1\trab1\obj\Debug\trab1.LoginForm1.resources
+C:\Users\leandro\source\repos\trab1\trab1\obj\Debug\trab1.Resources.resources
+C:\Users\leandro\source\repos\trab1\trab1\obj\Debug\trab1.SplashScreen1.resources
+C:\Users\leandro\source\repos\trab1\trab1\obj\Debug\trab1.vbproj.GenerateResource.cache
+C:\Users\leandro\source\repos\trab1\trab1\obj\Debug\trab1.exe
+C:\Users\leandro\source\repos\trab1\trab1\obj\Debug\trab1.xml
+C:\Users\leandro\source\repos\trab1\trab1\obj\Debug\trab1.pdb
